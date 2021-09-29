@@ -1,0 +1,22 @@
+
+
+
+#rightAside, #coWorkers{
+    width: 100%;
+    object-fit: contain;
+    max-width: 250px;
+}
+p{
+padding-left: 0.4rem;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+h3{
+    padding: 0.4rem;
+}
+.container{
+margin-top: 3rem;
+}
+.btn{
+    margin: 0 0 0.5rem 0 ;
+}

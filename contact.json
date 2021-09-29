@@ -1,0 +1,24 @@
+[
+    {   
+        "firstName":"Kalle",
+        "lastName":"Anka",
+        "title":"Ägare",
+        "email":"kalle@anka.com",
+        "phone":"012 - 456 78 89",
+        "img":"kalle-250x250px.png"
+    },{   
+        "firstName":"Långben",
+        "lastName":"Anka",
+        "title":"lagerarbetare",
+        "email":"långben@anka.com",
+        "phone":"012 - 849 23 45",
+        "img":"långben-250x250px.png"
+    },{   
+        "firstName":"Musse",
+        "lastName":"Pigg",
+        "title":"Säljare",
+        "email":"musse@anka.com",
+        "phone":"012 - 289 18 34",
+        "img":"musse-250x250px.png"
+    }
+]
